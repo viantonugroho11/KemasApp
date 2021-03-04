@@ -1,0 +1,7 @@
+{
+  "name": "KemasMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
